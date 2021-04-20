@@ -5,12 +5,12 @@ import Home from '../Home'
 
 const App = (): ReactElement => (
 	<BrowserRouter>
-        <Switch>
-            <Route path="/">
-                <Home />
-            </Route>
-        </Switch>
-    </BrowserRouter>
+		<Switch>
+			<Route path="/">
+				<Home />
+			</Route>
+		</Switch>
+	</BrowserRouter>
 )
 
 export default App
