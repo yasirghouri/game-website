@@ -36,6 +36,7 @@ build/Release
 node_modules/
 dist/
 jspm_packages/
+src/components/GameList/constants.ts
 
 # TypeScript v1 declaration files
 typings/
